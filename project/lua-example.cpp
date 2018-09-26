@@ -137,7 +137,7 @@ private:
 };
 
 int main() {
-    std::cout << "https://github.com/mortennobel/SimpleRenderEngineProject" << std::endl;
+    std::cout << "https://github.com/yosoymin/SimpleRenderEngineProject" << std::endl;
     new LuaExample();
 
     return 0;

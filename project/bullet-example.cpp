@@ -42,7 +42,7 @@ private:
 };
 
 int main() {
-    std::cout << "https://github.com/mortennobel/SimpleRenderEngineProject" << std::endl;
+    std::cout << "https://github.com/yosoymin/SimpleRenderEngineProject" << std::endl;
 
     // Bullet test - based on http://www.bulletphysics.org/mediawiki-1.5.8/index.php/Hello_World
 	btBroadphaseInterface* broadphase = new btDbvtBroadphase();
